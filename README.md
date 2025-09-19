@@ -21,15 +21,6 @@
   </ul>
 </div>
 
-<!--Intro start-->
-- 🔭 I’m currently working on **full-stack projects with React.js, Django, and PostgreSQL**  
-- 🌱 I’m currently learning **algorithms, data science, and scalable backend systems**  
-- ☁️ I have strong interest in **AI, cloud, and machine learning**  
-- 💬 Ask me about **JavaScript, Python, C++, React.js, Django, MongoDB**  
-- 📫 Reach me at **j.tega149@gmail.com**  
-- ⚡ Fun fact: I enjoy **soccer, outdoors, and hackathons**  
-<!--Intro end-->
-
 <!--- stats & Trophy (start) -->
 <p align="center">
   <!--- stats (start) -->

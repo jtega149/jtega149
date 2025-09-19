@@ -7,12 +7,6 @@
     <summary><h1 style="display: inline-block">Hi 👋, I'm John Ortega</h1></summary>
   </ul>
 </div>
-
-<!--- snake -->
-<div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
 <!--- stats & Trophy (start) -->
 <p align="center">
   <!--- stats (start) -->
@@ -69,8 +63,6 @@
 <!--icons and links-->
 <p align="center">
 <a href="https://www.linkedin.com/in/john-ortega-b158072a9/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
-<a href="https://github.com/jtega149" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982196-562aea17-5532-4550-8c08-1c7cb994a541.png" alt="github" height="50" width="50" /></a>
-<a href="mailto:j.tega149@gmail.com" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234980676-61bfb021-ecc8-48f7-88e6-34c1b06c4a58.png" alt="email" height="50" width="50" /></a>
 </p>
 
 <!--profile visit count-->

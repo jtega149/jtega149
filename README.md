@@ -1,7 +1,5 @@
 # Hi guys I'm John
 
-I'm interested in AI/ML engineering and cloud computing.
-
 ### Languages
 [![My Skills](https://skillicons.dev/icons?i=python,java,javascript,typescript,cpp)](https://skillicons.dev)
 
